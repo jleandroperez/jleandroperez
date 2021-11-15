@@ -1,16 +1,24 @@
-### Hi there 👋
+### EY there! 👋
 
-<!--
-**jleandroperez/jleandroperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Lead iOS/macOS Engineer at [Automattic Inc](www.automattic.com).
 
-Here are some ideas to get you started:
+```swift
+let projects = [
+   "Simplenote",
+   "DayOne",
+   "WooCommerce",
+   "WordPress",
+   "Glyder (Founder!)",
+   "FarmVille",
+   "... Load More ..."
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+let languages = [
+   "Swift",
+   "Objective C",
+   "Erlang",
+   "PHP"
+]
+
+let experience = "12 years! woooo"
+```
