@@ -7,12 +7,12 @@
 let experience = "+12 years!"
 
 let projects = [
-   "Simplenote",
-   "DayOne",
-   "WooCommerce",
-   "WordPress",
-   "Glyder (Founder!)",
-   "FarmVille",
+   "Simplenote iOS and macOS",
+   "DayOne iOS and macOS",
+   "WooCommerce iOS",
+   "WordPress iOS",
+   "Glyder iOS (Founder!)",
+   "FarmVille iOS",
    "... Load More ..."
 ]
 
