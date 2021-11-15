@@ -1,7 +1,8 @@
 ## EY there! 👋
 
 :shipit: _Lead iOS/macOS Engineer at [Automattic Inc](www.automattic.com)._<br/>
-📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)._
+📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)._<br/>
+📫 _Contact: **jorge** at **lantean.co**_
 
 ```swift
 let experience = "+12 years!"
