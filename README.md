@@ -4,15 +4,21 @@
 📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)._<br/>
 
 ```swift
-let experience = "+12 years!"
+let experience = "+15 years!"
+
+let platforms = [
+   .iOS,
+   .macOS,
+   .backend
+]
 
 let projects = [
-   "Simplenote iOS and macOS",
-   "DayOne iOS and macOS",
-   "WooCommerce iOS",
-   "WordPress iOS",
-   "Glyder iOS (Founder!)",
-   "FarmVille iOS",
+   "Simplenote",
+   "DayOne",
+   "WooCommerce",
+   "WordPress",
+   "Glyder (Founder!)",
+   "FarmVille",
    "... Load More ..."
 ]
 
