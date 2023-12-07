@@ -17,14 +17,13 @@ let education = Education(
 let platforms: [Platform] = [.iOS, .macOS, .backend]
 let languages: [Language] = [.swift, .objectiveC, .erlang, .php]
 
-let projects: [Project] = [
-    Project(name: "DayOne Apple", url: "https://dayoneapp.com"),
-    Project(name: "Simplenote iOS", url: "https://github.com/Automattic/simplenote-ios"),
-    Project(name: "Simplenote macOS", url: "https://github.com/Automattic/simplenote-macos"),
-    Project(name: "WooCommerce iOS", url: "https://github.com/woocommerce/woocommerce-ios"),
-    Project(name: "WordPress iOS", url: "https://github.com/wordpress-mobile/WordPress-iOS"),
-    Project(name: "Glyder (Founder!)", url: "https://web.archive.org/web/20130225234120/http://welcome.glyder.co/"),
-    Project(name: "FarmVille iOS", url: "https://www.zynga.com")
-    Project(name: "... Load More!", url: URL(string: "https://www.lantean.co"))
+let projects = [
+    "DayOne",
+    "Simplenote",
+    "WooCommerce",
+    "WordPress",
+    "Glyder (Founder!)",
+    "FarmVille",
+    "... Load More!"
 ]
 ```
