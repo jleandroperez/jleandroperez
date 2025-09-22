@@ -14,7 +14,7 @@ let education = Education(
     graduationDate: "2006"
 )
 
-let platforms: [Platform] = [.iOS, .macOS, .backend]
+let platforms: [Platform] = [.macOS, .iOS, .backend]
 let languages: [Language] = [.swift, .objectiveC, .erlang, .php]
 
 let projects = [
