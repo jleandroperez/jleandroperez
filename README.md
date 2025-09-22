@@ -1,6 +1,6 @@
 ## EY there! 👋
 
-:shipit: _Staff iOS/macOS Engineer at [Automattic Inc](www.automattic.com)._<br/>
+:shipit: _Senior macOS Engineer._<br/>
 📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)._<br/>
 
 ```swift
