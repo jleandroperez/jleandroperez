@@ -1,7 +1,7 @@
 ## EHLO 👋
 
 :shipit: _Senior macOS Engineer_<br/>
-📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)_<br/>
+📚 _Information Technology Engineer at [Universidad de Belgrano](https://www.ub.edu.ar)_<br/>
 
 ```swift
 let experience = "+20 years!"
