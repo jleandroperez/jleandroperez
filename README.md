@@ -1,17 +1,17 @@
 ## EY there! 👋
 
-:shipit: _Senior macOS Engineer_<br/>
+🍎 _Senior macOS Engineer_<br/>
 📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)_<br/>
 
 ```swift
-let experience = "+18 years!"
+let experience = "+20 years!"
 
 let education = Education(
     degree: "Bachelor of Science",
     field: "Information Technology Engineering",
     university: "Universidad de Belgrano",
-    website: "www.ub.edu.ar",
-    graduationDate: "2006"
+    website: "https://www.ub.edu.ar",
+    graduationDate: 2006
 )
 
 let platforms: [Platform] = [.macOS, .iOS, .backend]
