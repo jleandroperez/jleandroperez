@@ -1,6 +1,6 @@
-## EY there! 👋
+## EHLO 👋
 
-🍎 _Senior macOS Engineer_<br/>
+:shipit: _Senior macOS Engineer_<br/>
 📚 _Information Technology Engineer at [Universidad de Belgrano](www.ub.edu.ar)_<br/>
 
 ```swift
