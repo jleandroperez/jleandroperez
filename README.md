@@ -13,7 +13,7 @@ let experience = "+20 years!"
 
 let education = Education(
     degree: "Bachelor of Science",
-    field: "Information Technology Engineering",
+    field: "Computer Science and Engineering",
     university: "Universidad de Belgrano",
     website: "https://www.ub.edu.ar",
     graduationDate: 2006
