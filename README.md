@@ -23,6 +23,7 @@ let platforms: [Platform] = [.macOS, .iOS, .backend]
 let languages: [Language] = [.swift, .objectiveC, .erlang, .php]
 
 let projects = [
+    "DuckDuckGo",
     "DayOne",
     "Simplenote",
     "WooCommerce",
