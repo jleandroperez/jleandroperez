@@ -1,7 +1,7 @@
 ## EHLO 👋
 
 :shipit: Senior macOS Engineer  
-🎓 Information Technology Engineer — [Universidad de Belgrano](https://www.ub.edu.ar)<br>
+🎓 Computer Science and Engineering — [Universidad de Belgrano](https://www.ub.edu.ar)<br>
 
 🕸️ https://www.lantean.co<br>
 📱 https://www.linkedin.com/in/lantean/
